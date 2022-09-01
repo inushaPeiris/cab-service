@@ -1,2 +1,2 @@
-# Program-for-cab-service-using-Python
-EEI3372/EEX3372 Programing with Python - Mini Project
+# cab-service
+EEI3372/EEX3372 Programing with Python - Mini Project. This is a program for a cab service using python.
